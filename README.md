@@ -1,6 +1,6 @@
 # Welcome to the world of Cognitive Coder
 
-| [PASSIONS]()    | [PROJECTS]()    | [AWARDS]()    | [ARTICLES]()    | [VOLUNTEERING]() |
+| [PASSIONS]()    | [PROJECTS](docs/PROJECTS.md)    | [AWARDS](docs/AWARDS.md)    | [ARTICLES]()    | [VOLUNTEERING]() |
 
 
 
