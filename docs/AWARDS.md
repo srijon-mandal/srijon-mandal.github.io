@@ -14,7 +14,7 @@
 - [AirForce Award](https://github.com/srijon-mandal/srijon-mandal.github.io/blob/main/docs/certificates/Srijon%20Mandal%20%20Air%20Force%20Certificate.pdf)
 
 ## Broadcom National Science Competition 
-- [Broadcom National Award](certificates/Srijon Mandal Broadcom National Certificate.pdf)
+- [Broadcom National Award](https://github.com/srijon-mandal/srijon-mandal.github.io/blob/main/docs/certificates/Srijon%20Mandal%20Broadcom%20National%20Certificate.pdf)
 - [National Winner - 2022 Top 300 Broadcom MASTERS](https://www.youtube.com/clip/UgkxP9QQ5OLQs9ioaECUFsARRCX5McSwBOSR)
 
 ## DOD STEM Award
