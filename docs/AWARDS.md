@@ -4,6 +4,7 @@
 
 ## Alameda County Science Fair 
 - [ACSEF Competition](https://github.com/srijon-mandal/srijon-mandal.github.io/blob/main/docs/certificates/ACSEF-%20Certificate1.pdf)
+- [Middle School 1st Award] (https://github.com/srijon-mandal/srijon-mandal.github.io/blob/main/docs/certificates/ACSEF-%20MIddle%20School%20-%201st%20on%20County.pdf)
 
 ## California State Science and Engineering Competition 
 - [CSEF Competition](certificates/)
