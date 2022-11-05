@@ -21,3 +21,6 @@
 - [DoDSTEM Award](certificates/Srijon Mandal DoDSTEM Certificate.pdf)
 
 # DEBATE
+
+# International Math Contest
+-[RSM-IMC-2022]
