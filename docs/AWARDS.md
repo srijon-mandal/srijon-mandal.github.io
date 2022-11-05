@@ -23,4 +23,4 @@
 # DEBATE
 
 # International Math Contest
--[RSM-IMC-2022](https://github.com/srijon-mandal/srijon-mandal.github.io/blob/main/docs/certificates/Srijon%20Mandal_IMC%202022%20Certificate%20(2).pdf)
+- [RSM-IMC-2022](https://github.com/srijon-mandal/srijon-mandal.github.io/blob/main/docs/certificates/Srijon%20Mandal_IMC%202022%20Certificate%20(2).pdf)
