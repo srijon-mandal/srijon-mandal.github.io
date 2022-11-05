@@ -11,7 +11,7 @@
 - [3rd Prize Winner in CSEF J-10](https://youtu.be/gCCrjrsrcrc?t=188)
 
 ## AirForce Award 
-- [AirForce Award](certificates/Srijon Mandal Air Force Certificate.pdf)
+- [AirForce Award]()
 
 ## Broadcom National Science Competition 
 - [Broadcom National Award](certificates/Srijon Mandal Broadcom National Certificate.pdf)
