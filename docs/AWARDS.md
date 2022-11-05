@@ -3,7 +3,7 @@
 # SCIENCE FAIR
 
 ## Alameda County Science Fair 
-- [ACSEF Competition](certificates/)
+- [ACSEF Competition](certificates/ACSEF- Certificate1.pdf)
 
 ## California State Science and Engineering Competition 
 - [CSEF Competition](certificates/)
